@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Windows.Input;
-using Xamarin.Essentials;
-using Xamarin.Forms;
+using Microsoft.Maui.ApplicationModel;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui;
 
 namespace XamarinWithUWP.ViewModels
 {

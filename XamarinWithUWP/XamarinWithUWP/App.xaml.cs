@@ -1,8 +1,9 @@
 ﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+using Microsoft.Maui.Controls.Xaml;
 using XamarinWithUWP.Services;
 using XamarinWithUWP.Views;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui;
 
 namespace XamarinWithUWP
 {

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XamarinWithUWP.UWP (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "XamarinWithUWP.UWP (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
