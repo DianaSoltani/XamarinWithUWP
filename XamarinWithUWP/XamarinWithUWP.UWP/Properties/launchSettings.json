@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XamarinWithUWP.UWP Windows Machine": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
