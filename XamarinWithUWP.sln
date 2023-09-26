@@ -1,15 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33701.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP.UWP", "XamarinWithUWP\XamarinWithUWP.UWP\XamarinWithUWP.UWP.csproj", "{4DAFEEEA-0BC9-4EF4-B4E5-ECBDD13254E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinWithUWP.UWP", "XamarinWithUWP\XamarinWithUWP.UWP\XamarinWithUWP.UWP.csproj", "{4DAFEEEA-0BC9-4EF4-B4E5-ECBDD13254E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP.Android", "XamarinWithUWP\XamarinWithUWP.Android\XamarinWithUWP.Android.csproj", "{829FFC8C-FB54-431F-B05D-9B10052571B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinWithUWP.Android", "XamarinWithUWP\XamarinWithUWP.Android\XamarinWithUWP.Android.csproj", "{829FFC8C-FB54-431F-B05D-9B10052571B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP.iOS", "XamarinWithUWP\XamarinWithUWP.iOS\XamarinWithUWP.iOS.csproj", "{892965AD-2F74-47FD-A18C-8C615018CB36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinWithUWP.iOS", "XamarinWithUWP\XamarinWithUWP.iOS\XamarinWithUWP.iOS.csproj", "{892965AD-2F74-47FD-A18C-8C615018CB36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP", "XamarinWithUWP\XamarinWithUWP\XamarinWithUWP.csproj", "{D13E95BB-1D0C-4459-A9EE-6DF08F832C04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinWithUWP", "XamarinWithUWP\XamarinWithUWP\XamarinWithUWP.csproj", "{D13E95BB-1D0C-4459-A9EE-6DF08F832C04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
