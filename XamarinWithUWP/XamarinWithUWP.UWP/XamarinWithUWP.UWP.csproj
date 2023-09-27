@@ -7,15 +7,13 @@
     <Platforms>x86;x64;arm64</Platforms>
     <RootNamespace>XamarinWithUWP.UWP</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <EnablePreviewMsixTooling>true</EnablePreviewMsixTooling>
+    <EnableMsixTooling>true</EnableMsixTooling>
     <RuntimeIdentifiers>win10-x86;win10-x64;win10-arm64</RuntimeIdentifiers>
     <PublishProfile>win10-$(Platform).pubxml</PublishProfile>
     <TargetFrameworks>net8.0-windows10.0.19041.0</TargetFrameworks>
     <UseMaui>True</UseMaui>
     <!-- We do not want XAML files to be processed as .NET MAUI XAML -->
     <EnableDefaultMauiItems>false</EnableDefaultMauiItems>
-    <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>
-    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <!--<PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <OutputPath>bin\ARM\Debug\</OutputPath>
