@@ -11,7 +11,7 @@
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
-    <TargetFrameworks>net7.0-android</TargetFrameworks>
+    <TargetFrameworks>net7.0-android33</TargetFrameworks>
     <UseMaui>True</UseMaui>
     <AssemblyTitle>XamarinWithUWP.Android</AssemblyTitle>
     <Product>XamarinWithUWP.Android</Product>
