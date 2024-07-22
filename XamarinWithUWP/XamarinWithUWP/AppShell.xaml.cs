@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using Xamarin.Forms;
 using XamarinWithUWP.ViewModels;
 using XamarinWithUWP.Views;
-using Microsoft.Maui.Controls.Compatibility;
-using Microsoft.Maui.Controls;
-using Microsoft.Maui;
 
 namespace XamarinWithUWP
 {
-	public partial class AppShell : Microsoft.Maui.Controls.Shell
+	public partial class AppShell : Xamarin.Forms.Shell
 	{
 		public AppShell()
 		{
