@@ -140,6 +140,8 @@
     <ProjectReference Include="..\XamarinWithUWP\XamarinWithUWP.csproj">
       <Project>{F29E851B-6179-4E35-AE09-9CE643087A07}</Project>
       <Name>XamarinWithUWP</Name>
+      <IsAppExtension>false</IsAppExtension>
+      <IsWatchApp>false</IsWatchApp>
     </ProjectReference>
   </ItemGroup>
 </Project>

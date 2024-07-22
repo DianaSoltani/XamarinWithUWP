@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33701.57
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP.Android", "X
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP.iOS", "XamarinWithUWP\XamarinWithUWP.iOS\XamarinWithUWP.iOS.csproj", "{892965AD-2F74-47FD-A18C-8C615018CB36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWithUWP", "XamarinWithUWP\XamarinWithUWP\XamarinWithUWP.csproj", "{D13E95BB-1D0C-4459-A9EE-6DF08F832C04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinWithUWP", "XamarinWithUWP\XamarinWithUWP\XamarinWithUWP.csproj", "{D13E95BB-1D0C-4459-A9EE-6DF08F832C04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
